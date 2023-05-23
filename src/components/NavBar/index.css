@@ -1,0 +1,12 @@
+.nav-container {
+  background-color: #152850;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  justify-content: space-between;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
